@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IME Test</string>
+    <string name="label_raw">Raw</string>
+    <string name="label_cooked">Cooked</string>
+</resources>
